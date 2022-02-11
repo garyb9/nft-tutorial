@@ -1,0 +1,11 @@
+{
+    "name": "Bobo",
+    "description": "Bobo NFT - Mint when the market goes down!",
+    "image":"https://gateway.pinata.cloud/ipfs/QmbQ1qwYikzrna5DPwXxM7RpcTo3pGbkT4BYf9myxpUcnj",
+    "attributes":[
+        {
+            "trait_type": "Market Condition",
+            "value": "Down"
+        }
+    ]
+}
